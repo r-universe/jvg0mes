@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "metools",
+    "oncran": true
+  }
+]
